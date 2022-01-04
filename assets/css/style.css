@@ -124,7 +124,7 @@ section {
   border-radius: 15px;  
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   border: 3px solid #024e76;
-  background-color: 80% #fce138;
+  background-color: rgba(255, 225, 56, 0.8);
   padding: 20px;
   color: #024e76;
   margin: 3.5%;
@@ -381,6 +381,7 @@ flex: 2 70%;
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
+    background-color: rgba(255,255,255, 0.75);
 }
 
 .contact-form input:focus, .contact-form textarea:focus {
